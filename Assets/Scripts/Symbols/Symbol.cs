@@ -3,7 +3,7 @@ using UnityEngine;
 [System.Serializable]
 public class Symbol
 {
-    public string name;
+    public string symbolName;
     public Sprite sprite;
     public int payout;
 }
