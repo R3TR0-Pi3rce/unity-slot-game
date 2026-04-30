@@ -50,5 +50,5 @@ WebGL build included in:
 
 ---
 
-## 🚀 Author
+## Author
 Aditya
